@@ -1,0 +1,11 @@
+
+.venv
+__pycache__
+*.pyc
+.git
+.gitignore
+README.md
+.python-version
+bot.db
+.uv
+uv.lock
